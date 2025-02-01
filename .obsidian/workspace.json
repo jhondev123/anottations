@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "de4884539d0f52ef",
+    "type": "split",
+    "children": [
+      {
+        "id": "ad8eca1eb61876fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "acc4e8d0527562de",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29b4b8aba456ac79",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ce6ce9167462808",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc0f62e93842463f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "004436f2bde26125",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "192f4f52ed7bb741",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 234.5
+  },
+  "right": {
+    "id": "09e6c6bbcabb42ee",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5474a2b813d0f52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377795204bfa42ec",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "34b440f01a111d95",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "33439d24fcc1097e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9816107b7ac62218",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "acc4e8d0527562de",
+  "lastOpenFiles": [
+    "computing/Programming/Conceitos/output.md",
+    "computing/Programming/Languages/c#/Classes/Console.md",
+    "computing/Programming/Conceitos/input.md",
+    "computing/Programming/Conceitos/Namespace.md",
+    "computing/Programming/Conceitos/Paradigmas/POO/Método.md",
+    "computing/Programming/Conceitos/Função.md",
+    "computing/Programming/Languages/c#/C SHARP.md",
+    "computing/Programming/Languages/C sharp.md",
+    "computing/Programming/Conceitos/Linguagem.md",
+    "computing/Programming/Languages/c#/Geral.md",
+    "computing/Programming/Conceitos/Paradigmas/POO.md",
+    "computing/Programming/Languages",
+    "computing/Programming/Conceitos/Paradigmas",
+    "computing/Programming/Conceitos/Paradigmas/POO/Objeto.md",
+    "computing/Programming/Conceitos/Paradigmas/POO/Atributos.md",
+    "computing/Programming/Conceitos/Instancia.md",
+    "computing/Programming/Conceitos/Paradigmas/POO/Classe.md",
+    "c.md",
+    "computing/Programming/Conceitos/Paradigmas/POO/Métodos/Construtor.md",
+    "computing/Conceitos/Byte.md",
+    "computing/Conceitos/utf-8.md",
+    "computing/Conceitos/ASCII.md",
+    "computing/Conceitos/Bit.md",
+    "bits.md",
+    "computing/Programming/Languages/c#/Tipos/Int.md",
+    "computing/Conceitos",
+    "computing",
+    "computing/Programming/Languages/c#/Tipos/Double.md",
+    "computing/Programming/Languages/c#/Tipos/String.md",
+    "generic/imutável.md",
+    "generic",
+    "computing/Programming/Conceitos",
+    "computing/Programming/Conceitos/Paradigmas/POO/Métodos",
+    "computing/Programming/Conceitos/Paradigmas/POO",
+    "computing/Programming/Ide/visual studio/auto completes",
+    "computing/Programming/Ide/visual studio/keymaps",
+    "computing/Programming/Languages/php/nginx/real_piramide_testes.png",
+    "computing/Programming/Languages/php/images/piramide_testes.png",
+    "learning php/nginx/real_piramide_testes.png",
+    "learning php/images/piramide_testes.png",
+    "learning php/learning php/nginx/real_piramide_testes.png",
+    "learning php/learning php/images/piramide_testes.png"
+  ]
+}

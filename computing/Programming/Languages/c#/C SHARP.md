@@ -1,0 +1,1 @@
+É uma [[Linguagem]] de programação que segue o paradigma [[POO]]

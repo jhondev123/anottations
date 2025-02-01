@@ -1,0 +1,1 @@
+Ela traz uma forma de padronizar os controllers com uma function handle

@@ -1,0 +1,1 @@
+Output é qualquer dado ou informação que um programa envia para o mundo externo após processar o input. Isso pode ser exibido para o usuário, armazenado em um arquivo, enviado para outro programa ou transmitido por uma rede.

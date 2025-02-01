@@ -1,0 +1,1 @@
+São tipos onde o valor fica armazenado diretamente nele, na memória Stack

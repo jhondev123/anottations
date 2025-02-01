@@ -1,0 +1,1 @@
+Input é qualquer dado ou informação que é fornecido a um programa para ser processado. Esses dados podem vir de várias fontes, como o usuário (via teclado, mouse, etc.), um arquivo, um sensor, uma rede ou outro programa.

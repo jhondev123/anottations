@@ -1,0 +1,1 @@
+um **método** é uma [[Função]] associada a um [[Objeto]] ou [[Classe]]. Ele define um comportamento ou uma ação que pode ser executada em instâncias daquela classe, manipulando os dados ou realizando alguma tarefa relacionada ao objeto.

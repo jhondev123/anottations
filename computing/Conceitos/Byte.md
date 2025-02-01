@@ -1,0 +1,1 @@
+ É um conjunto de 8 [[Bit]]s. Um byte pode representar 256 valores diferentes (de 0 a 255), sendo frequentemente usado para armazenar um único caractere em sistemas de codificação como [[ASCII]] e UTF-8.

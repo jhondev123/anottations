@@ -1,0 +1,1 @@
+é a **criação de um [[Objeto]]** a partir de uma [[Classe]]. Quando você cria uma instância de uma classe, você está criando um objeto real que possui os atributos e comportamentos definidos na classe.

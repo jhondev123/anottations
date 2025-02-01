@@ -1,0 +1,1 @@
+Adaptação porca que resolve o problema de uma forma ruim, mas resolve

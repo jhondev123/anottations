@@ -1,0 +1,1 @@
+é um bloco de código reutilizável que executa uma tarefa específica e pode retornar um valor. Ela é definida com um nome e pode aceitar parâmetros de entrada, que são usados para executar a tarefa desejada. Após a execução, a função pode devolver um resultado (valor), ou pode apenas realizar uma ação sem retornar nada.

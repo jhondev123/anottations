@@ -1,0 +1,1 @@
+é uma [[Instancia]] de uma [[Classe]]. Ele é uma entidade que possui [[Atributos]] (dados) e pode executar métodos (comportamentos). Em outras palavras, um objeto representa um item concreto que segue o modelo definido pela classe.

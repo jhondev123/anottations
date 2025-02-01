@@ -1,0 +1,1 @@
+**Programação Orientada a Objetos** é um paradigma de programação que organiza o software em **[[Objeto]]s**. Esses objetos combinam dados ([[Atributos]]) e comportamentos ([[Método]]) em uma única entidade/[[Classe]]. A POO visa tornar o código mais modular, reutilizável, flexível e fácil de entender, refletindo entidades do mundo real.

@@ -1,0 +1,1 @@
+são mecanismos usados para organizar e agrupar entidades como [[Classe]], [[Função]], [[Função]] e outros identificadores, a fim de evitar conflitos de nomes. Eles criam um escopo nomeado que ajuda a distinguir entre identificadores com o mesmo nome, mas que pertencem a contextos diferentes.

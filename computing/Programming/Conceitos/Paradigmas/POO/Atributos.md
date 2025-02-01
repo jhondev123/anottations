@@ -1,0 +1,3 @@
+são as **características ou propriedades** de um [[Objeto]] ou [[Classe]] em programação. Eles armazenam dados que descrevem o estado de um objeto. Atributos podem ser variáveis que guardam valores, como números, textos ou outros tipos de dados.
+
+Em uma classe, os atributos definem os valores que os objetos dessa classe terão e, geralmente, são manipulados por métodos. Eles são importantes para caracterizar os objetos e determinar como eles se comportam.

@@ -1,0 +1,1 @@
+Ato de analisar o código e verificar os valores passando nas linhas para encontrar algum possível erro

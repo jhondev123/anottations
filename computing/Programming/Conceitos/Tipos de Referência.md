@@ -1,0 +1,1 @@
+São tipos que quando são declarados eles criam a sua instância na HEAP e gravam apenas a referência dessa instância

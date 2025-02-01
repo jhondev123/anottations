@@ -1,0 +1,1 @@
+É um local da memória que guarda uma informação de um determinado tipo
