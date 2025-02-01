@@ -11,10 +11,14 @@
             "id": "acc4e8d0527562de",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "readme.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "readme"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for readme"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from readme"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "readme.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of readme"
             }
           }
         ]
@@ -163,6 +170,10 @@
   },
   "active": "acc4e8d0527562de",
   "lastOpenFiles": [
+    "Novo(a) Documento de Texto.txt",
+    "Untitled.md",
+    "Untitled 1.md",
+    "readme.md",
     "computing/Programming/Conceitos/output.md",
     "computing/Programming/Languages/c#/Classes/Console.md",
     "computing/Programming/Conceitos/input.md",
@@ -187,12 +198,8 @@
     "computing/Conceitos/ASCII.md",
     "computing/Conceitos/Bit.md",
     "bits.md",
-    "computing/Programming/Languages/c#/Tipos/Int.md",
     "computing/Conceitos",
     "computing",
-    "computing/Programming/Languages/c#/Tipos/Double.md",
-    "computing/Programming/Languages/c#/Tipos/String.md",
-    "generic/imutável.md",
     "generic",
     "computing/Programming/Conceitos",
     "computing/Programming/Conceitos/Paradigmas/POO/Métodos",
