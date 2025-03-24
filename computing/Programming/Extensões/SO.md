@@ -1,0 +1,1 @@
+é a extensão do Linux onde o arquivo possui código de bibliotecas compartilha entre diferentes softwares

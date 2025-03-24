@@ -1,0 +1,1 @@
+Arquivos .EXE são arquivos executáveis pelo windows
