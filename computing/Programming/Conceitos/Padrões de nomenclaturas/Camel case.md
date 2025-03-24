@@ -1,0 +1,1 @@
+palavras são escritas juntas sem espaços, e cada palavra começa com uma letra maiúscula (exceto, às vezes, a primeira palavra).

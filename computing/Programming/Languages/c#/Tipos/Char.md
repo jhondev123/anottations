@@ -1,2 +1,2 @@
-é uma [[String]] de um caractere só, serve para quando quer armazenar um valor
-a uma [[Variável]]
+é uma [[computing/Programming/Languages/c#/Tipos/String]] de um caractere só, serve para quando quer armazenar um valor, ele armazena como [[Tipos de Valor]]
+Ele ocupa 2 [[computing/Programming/Languages/c#/Tipos/Byte|Byte]]s de memória (16 [[Bit]]s), pois usa a codificação Unicode.

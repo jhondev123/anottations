@@ -1,0 +1,4 @@
+[[Clean Architeture]]
+[[Application]]
+São os responsáveis por implementar as regras propostas como domains  / regras de negócio, Estão mais ligadas a funcionalidades que o sistema vai possuir, como cadastro de clientes que vai precisar ter uma entidade de cliente com suas validações de informações e regras de negócio
+Os casos de uso são instâncias específicas da camada de aplicação que descrevem e implementam os fluxos de trabalho do sistema. Cada caso de uso encapsula um cenário específico de interação com o sistema e define como os serviços de domínio e repositórios devem ser utilizados para alcançar o objetivo desse cenário.

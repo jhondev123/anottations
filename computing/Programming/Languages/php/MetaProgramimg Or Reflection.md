@@ -1,1 +1,0 @@
-É uma forma na programação de acessar informações de uma classe ou código usando outro código, por exemplo uma classe Produtos, usando reflection você conseguiria acessar os atributos, suas funções, sem instanciar ele ou saber a lógica de funcionamento dele

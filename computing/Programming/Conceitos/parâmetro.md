@@ -1,0 +1,1 @@
+é quando uma [[Função]] recebe uma [[Variável]] dizendo q ela está recebendo um parâmetro

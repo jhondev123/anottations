@@ -1,1 +1,0 @@
-É a PSR responsável por trazer uma estrutura de como deveria funcionar um sistema de rotas de uma app

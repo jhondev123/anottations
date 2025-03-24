@@ -1,0 +1,1 @@
+São geralmente bibliotecas que manipulam as classes auxiliando a conexão com o banco de dados

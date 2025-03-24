@@ -1,0 +1,1 @@
+é uma convenção de nomenclatura onde as palavras são escritas em minúsculas e separadas por underscores (`_`).

@@ -1,0 +1,1 @@
+É a camada responsável pela comunicação com recursos externos, como [[Banco de dados]] e [[API]]S

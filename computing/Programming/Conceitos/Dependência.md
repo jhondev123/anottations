@@ -1,0 +1,1 @@
+refere a um componente externo (como uma biblioteca, módulo, framework ou serviço) que um projeto ou sistema precisa para funcionar corretamente. Dependências são essenciais para evitar a reinvenção da roda, permitindo que os desenvolvedores reutilizem código já existente e se concentrem na lógica específica do seu projeto.

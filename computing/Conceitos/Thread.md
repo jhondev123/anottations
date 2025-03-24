@@ -1,0 +1,2 @@
+[[Processo]]
+Uma **thread** é a menor unidade de execução dentro de um processo. Threads compartilham o mesmo espaço de memória e recursos do processo ao qual pertencem, mas podem ser executadas independentemente e concorrentemente. Isso permite que um programa realize múltiplas tarefas ao mesmo tempo, melhorando o desempenho e a capacidade de resposta.

@@ -1,0 +1,1 @@
+São o conjunto de regras e [[Classe]] que guardam essas regras que são importantes para o negócio, que não podem depender de libs externas, frameworks e nem nada, em um bom sistema essas regras bem estruturadas devem ser menos dependente possivel de coisas externas

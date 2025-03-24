@@ -1,0 +1,2 @@
+[[Tests]]
+é um teste que já é mais próximo ai um cenário real onde testamos as funcionalidades na prática, ou seja um envio de formulário, uma pesquisa no site, o click de um botão e geralmente é feito por ferramentas externas para automatizar o processo

@@ -1,0 +1,1 @@
+São literalmente as entidades do sistema, como produtos, clientes, e o recomendado é separar eles em uma classe separada com toda a lógica que eles possui de validações, como os campos e o seu molde. Essas Entidades geralmente possuem [[ValueObjects]] em seus campos, como CPF, Email, Telefone ou outras informações que necessitam de validações complexas

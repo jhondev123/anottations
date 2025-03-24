@@ -1,0 +1,1 @@
+Um **ponteiro** é uma variável que armazena o endereço de memória de outra variável. Ponteiros são comuns em linguagens como C e C++, mas em C# eles só podem ser usados em código **unsafe** (não seguro).

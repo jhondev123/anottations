@@ -1,0 +1,1 @@
+São aplicações responsáveis por deixar o mundo externo se comunicar com um sistema por meio de requisições

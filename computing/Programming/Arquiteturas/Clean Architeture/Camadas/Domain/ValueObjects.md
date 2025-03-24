@@ -1,0 +1,2 @@
+São [[Classe]] que  validam informações que estão ligadas as regras de negócio
+como o exemplo citado email, CPF e outros campos que precisam ter uma lógica de validação, e precisa ser desacoplado das [[Entities]] da aplicação até para poder seu reutilizada

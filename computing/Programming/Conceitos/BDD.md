@@ -1,0 +1,1 @@
+É uma forma de criar o código e criar os testes em conjunto de forma humanizada para um usuário entender o seu teste

@@ -1,0 +1,1 @@
+é uma convenção de nomenclatura onde todas as palavras começam com letra maiúscula e não há separadores como espaços ou underscores.
