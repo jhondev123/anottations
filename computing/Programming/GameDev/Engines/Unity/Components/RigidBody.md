@@ -1,0 +1,1 @@
+Adiciona física ao objeto, permitindo que ele reaja a grávidade e colisões

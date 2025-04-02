@@ -1,0 +1,1 @@
+Define a área de colisão do objeto

@@ -1,0 +1,1 @@
+Define a posição, rotação e escala do objeto

@@ -1,0 +1,1 @@
+O unity tem formas de capturar entradas do jogador por meio da Classe Input. podendo capturar de vários dispositivos ao mesmo tempo
