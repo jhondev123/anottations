@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computing/Programming/Languages/c#/Geral/Async await.md",
+                "file": "computing/Programming/Ide/Delhpi 6/Forms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Async await"
+              "title": "Forms"
             }
           }
         ]
@@ -168,11 +168,12 @@
   },
   "active": "f92f562d4542a233",
   "lastOpenFiles": [
-    "computing/Programming/Languages/c#/Geral/KeyWords/Virtual.md",
-    "computing/Programming/Languages/c#/Geral/Async await.md",
+    "computing/Programming/Ide/Delhpi 6/Navegação na IDE.md",
+    "computing/Programming/Ide/Delhpi 6/Navegação no código.md",
+    "computing/Programming/Ide/Delhpi 6/Forms.md",
     "computing/Programming/Ide/Delhpi 6/Debug.md",
-    "computing/Programming/Ide/Delhpi 6/Abrir aba de telas.md",
-    "computing/Programming/Ide/Delhpi 6/Form.md",
+    "computing/Programming/Languages/c#/Geral/Async await.md",
+    "computing/Programming/Languages/c#/Geral/KeyWords/Virtual.md",
     "computing/Programming/Ide/visual studio/auto completes/criando construtor de classe.md",
     "computing/Programming/Ide/visual studio/keymaps/keymap para Debugar.md",
     "computing/Programming/Ide/Delhpi 6/Erros do delphi/Versões diferentes.md",
@@ -196,7 +197,6 @@
     "computing/Programming/GameDev/Engines/Unity/Components/Sprite Renderer OR Mesh Renderer.md",
     "computing/Programming/GameDev/Engines/Unity/Components/Collider.md",
     "computing/Programming/GameDev/Engines/Unity/Components/RigidBody.md",
-    "computing/Programming/GameDev/Engines/Unity/Components/Transform.md",
     "computing/Programming/GameDev/Engines/Unity/Components",
     "computing/Programming/GameDev/Engines/Unity/Conceitos",
     "computing/Programming/GameDev/Engines/Unity",
