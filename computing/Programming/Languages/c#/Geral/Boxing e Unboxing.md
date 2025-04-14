@@ -1,7 +1,7 @@
 # Boxing
 É um processo de converter um tipo de valor como [[Int]], [[Double]], [[Boolean]] para tipo de referência como [[Object]] ou outro tipo de referência
 ## Como funciona
-um valor do tipo de valor ele fica gravado na [[computing/Conceitos/Stack]] e você tenta converter ele para um tipo de referência. internamente o tipo de valor vai ser copiado para um novo objeto na [[Heap]]
+um valor do tipo de valor ele fica gravado na [[Computing/Conceitos/Stack]] e você tenta converter ele para um tipo de referência. internamente o tipo de valor vai ser copiado para um novo objeto na [[Heap]]
 e o espaço que estava alocado na stack vai receber a referência que vai apontar para onde o valor foi gravado na heap
 
 # Unboxing

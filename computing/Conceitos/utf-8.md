@@ -7,4 +7,4 @@ Codificação variável: Cada caractere pode ser representado por 1 a 4 bytes, d
 
 Compatibilidade com [[ASCII]]: Os primeiros 128 caracteres de UTF-8 (valores de 0 a 127) são idênticos ao  [[ASCII]]. Isso significa que qualquer texto [[ASCII]] válido também é válido em UTF-8, o que facilita a transição entre os dois.
 
-Eficiência: Caracteres que são mais comuns em idiomas ocidentais (como os da língua inglesa) são codificados de maneira mais eficiente, usando apenas 1 [[computing/Conceitos/Byte|Byte]].
+Eficiência: Caracteres que são mais comuns em idiomas ocidentais (como os da língua inglesa) são codificados de maneira mais eficiente, usando apenas 1 [[Computing/Conceitos/Byte|Byte]].

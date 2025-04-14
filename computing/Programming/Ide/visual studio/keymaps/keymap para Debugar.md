@@ -1,4 +1,4 @@
-[[computing/Programming/Conceitos/Debug]]
+[[Computing/Programming/Conceitos/Debug]]
 
 Adicionar um break point e apertar
 ```
