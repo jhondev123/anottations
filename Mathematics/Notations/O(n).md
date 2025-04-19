@@ -1,0 +1,1 @@
+a cada novo valor apenas uma nova iteração

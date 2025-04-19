@@ -1,0 +1,1 @@
+significa a complexidade do algoritmo é quadrática. a cada novo valor é criado duas novas iterações 
