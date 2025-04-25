@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "computing/Programming/Conceitos/Estruturas de dados/Hashmap.md",
+                "file": "Computing/Programming/Algorith/Ordering Methods/Quick Sort.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hashmap"
+              "title": "Quick Sort"
             }
           }
         ]
@@ -168,6 +168,10 @@
   },
   "active": "51ea0e08905b96ad",
   "lastOpenFiles": [
+    "Computing/Programming/Algorith/Untitled.md",
+    "Computing/Programming/Algorith/Ordering Methods/Quick Sort.md",
+    "Computing/Programming/Algorith/Ordering Methods",
+    "Computing/Programming/Algorith",
     "Mathematics/Notations/O(n).md",
     "Mathematics/Notations/O(n)2.md",
     "computing/Programming/Conceitos/Estruturas de dados/Hashmap.md",
@@ -196,14 +200,10 @@
     "College/3 periodo/Gestão de projetos",
     "College/3 periodo",
     "College/3 periodo.md",
-    "College",
     "computing/Programming/Database/SQL/Conceitos/Consulta/Having.md",
     "computing/Programming/Arquiteturas/Clean Architeture/Camadas/Infra/Infra.md",
     "computing/Programming/GameDev/Engines/Unity/Conceitos/MonoBehaviour e Life Cicle dos scripts.md",
     "computing/Programming/GameDev/Engines/Unity/Conceitos/Input System.md",
-    "computing/Programming/GameDev/Engines/Unity/Conceitos/Game Objects.md",
-    "computing/Programming/GameDev/Engines/Unity/Conceitos/Física e Colisões.md",
-    "computing/Programming/GameDev/Engines/Unity/Conceitos",
     "Images/Pasted image 20250413111150.png",
     "Images/Pasted image 20250413110914.png",
     "computing/Programming/Languages/php/images/piramide_testes.png",
