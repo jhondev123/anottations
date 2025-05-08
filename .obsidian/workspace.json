@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computing/Programming/Algorith/Ordering Methods/Quick Sort.md",
+                "file": "Mathematics/Notations/Big O O(log n) Logarítmico.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Quick Sort"
+              "title": "Big O O(log n) Logarítmico"
             }
           }
         ]
@@ -168,11 +168,11 @@
   },
   "active": "51ea0e08905b96ad",
   "lastOpenFiles": [
-    "Computing/Programming/Algorith/Untitled.md",
+    "Mathematics/Notations/O(n).md",
     "Computing/Programming/Algorith/Ordering Methods/Quick Sort.md",
+    "Computing/Programming/Algorith/Untitled.md",
     "Computing/Programming/Algorith/Ordering Methods",
     "Computing/Programming/Algorith",
-    "Mathematics/Notations/O(n).md",
     "Mathematics/Notations/O(n)2.md",
     "computing/Programming/Conceitos/Estruturas de dados/Hashmap.md",
     "computing/Programming/Conceitos/Array.md",
